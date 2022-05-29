@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pagina-dinosaurios/static/css/main.1847895a.css",
+    "main.js": "/pagina-dinosaurios/static/js/main.b8aea817.js",
+    "static/media/1.jpeg": "/pagina-dinosaurios/static/media/1.5fcdb64919652ffbc2da.jpeg",
+    "static/media/3.jpeg": "/pagina-dinosaurios/static/media/3.660c006f4822df9743e9.jpeg",
+    "static/media/2.jpeg": "/pagina-dinosaurios/static/media/2.914d295ba64d535a2c4b.jpeg",
+    "index.html": "/pagina-dinosaurios/index.html",
+    "main.1847895a.css.map": "/pagina-dinosaurios/static/css/main.1847895a.css.map",
+    "main.b8aea817.js.map": "/pagina-dinosaurios/static/js/main.b8aea817.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1847895a.css",
+    "static/js/main.b8aea817.js"
+  ]
+}
